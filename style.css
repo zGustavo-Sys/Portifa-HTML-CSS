@@ -41,7 +41,6 @@
     cursor: pointer;
   }
 
-
   .ContatoBotton button {
 
     padding: 10px 40px;
@@ -53,7 +52,6 @@
     border-radius: 20px;
     cursor: pointer;
   }
-
 
   .Behance button {
 
@@ -89,7 +87,6 @@
     display: inline-block;
     transition: 0.5s;
 
-
   }
 
   .behance:hover {
@@ -98,7 +95,6 @@
     text-decoration: none;
     display: inline-block;
     transition: 0.5s;
-
 
   }
 
@@ -125,7 +121,6 @@
     align-items: center;
     justify-content: space-between;
 
-
   }
 
   header a {
@@ -135,7 +130,6 @@
     display: inline-block;
     transition: 0.5s;
   }
-
 
   header a:hover {
 
@@ -172,7 +166,6 @@
     justify-content: center;
     gap: 90px;
 
-
   }
 
   .Tsite h1 {
@@ -203,8 +196,6 @@
 
   }
 
-
-
   /* Serviços */
 
   section.serviços {
@@ -234,7 +225,6 @@
     box-shadow: 5px 5px 2em #999ec8;
     transform: scale(1.05);
     transition: 0.5s;
-
 
   }
 
@@ -309,7 +299,6 @@
 
   .sobre .img-sobre img :hover {
 
-
     border-radius: 20px;
     color: #fff;
     padding: 40px;
@@ -320,7 +309,6 @@
   }
 
   .social button {
-
 
     width: 60px;
     height: 60px;
@@ -340,7 +328,6 @@
     padding: 150px 4%;
     box-shadow: 5px 5px 30em #5c65c6;
 
-
   }
 
   .img-port {
@@ -354,14 +341,12 @@
     border-radius: 20px;
     position: relative;
 
-
   }
 
   .img-port:hover {
 
     background-position: 100% 100%;
     transition: 10s;
-
 
   }
 
@@ -371,7 +356,6 @@
     display: flex;
     justify-content: center;
     margin-top: 60px;
-
 
   }
 
@@ -393,7 +377,6 @@
     opacity: 0;
     transition: 0.5s;
 
-
   }
 
   .overley:hover {
@@ -402,13 +385,9 @@
     transform: scale(1.05);
     transition: 0.5s;
 
-
   }
 
-
-
   section.Projetos a {
-
 
     text-decoration: none;
 
@@ -457,8 +436,6 @@
     color: #fff;
     font-size: 15px;
 
-
-
   }
 
   form input::placeholder {
@@ -478,7 +455,6 @@
     max-height: 200px;
 
   }
-
 
   form .bt-enviar {
 
@@ -505,7 +481,6 @@
     background-color: #5c65c6;
 
   }
-
 
   footer .flex {
 
